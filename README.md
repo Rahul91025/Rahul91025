@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Neon Header with Glowing Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=87CEEB,B0E0E6,ADD8E6,E0FFFF&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rahul%20Gupta&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00cfff,87ceeb,add8e6,b0e0e6,e0ffff&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rahul%20Gupta&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=22"/>
+
 
 
 <!-- Glowing Neon Divider -->
