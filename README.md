@@ -64,7 +64,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/rahul-gupta-9742ab226/)
 [![Gmail](https://img.shields.io/badge/Gmail-rahulgupta109037@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:rahulgupta109037@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulgupta-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Rahul91025)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://rahulgupta-portfolio.vercel.app)
+
 
 </div>
 
