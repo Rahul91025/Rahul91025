@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Neon Header with Glowing Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Rahul%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rahul%20Gupta&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=22"/>
 
 <!-- Glowing Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -13,7 +12,7 @@
 
 
 <!-- Neon Profile Stats with Glow -->
-<p align="center" style="margin-top: -3rem;" >
+<p align="center"  >
   <img src="https://komarev.com/ghpvc/?username=rahulgupta-dev&label=Profile%20Views&color=00ffff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rahulgupta-dev?label=Followers&style=for-the-badge&color=00ffff&labelColor=000000&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00ff00?style=for-the-badge&labelColor=000000" alt="Status" />
