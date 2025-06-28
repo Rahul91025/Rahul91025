@@ -12,7 +12,7 @@
 </a>
 
 <!-- Neon Profile Stats with Glow -->
-<p align="center" style="margin-top: 40px;" >
+<p align="center" style="margin-top: 70px;" >
   <img src="https://komarev.com/ghpvc/?username=rahulgupta-dev&label=Profile%20Views&color=00ffff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rahulgupta-dev?label=Followers&style=for-the-badge&color=00ffff&labelColor=000000&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00ff00?style=for-the-badge&labelColor=000000" alt="Status" />
