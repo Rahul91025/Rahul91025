@@ -8,9 +8,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Enhanced Animated Typing Effect with Multiple Lines -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=180&lines=🔥+Full+Stack+Developer+🔥;⚡+MERN+%26+Spring+Boot+Developer+⚡;🚀+Open+Source+Contributor+🚀;"alt="Futuristic Typing SVG" />
-</a>
+<!-- Typing SVG Header -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=180&lines=🔥+Full+Stack+Developer+🔥;⚡+MERN+%26+Spring+Boot+Developer+⚡;🚀+Open+Source+Contributor+🚀;)
 
 
 <!-- Neon Profile Stats with Glow -->
